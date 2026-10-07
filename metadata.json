@@ -1,0 +1,6 @@
+{
+  "name": "Fieldly",
+  "description": "Field sales coordination with live map tracking, verified check-in, visit plans, and manager dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
